@@ -22,7 +22,7 @@ This is a project to look at the Airbnb market in Edinburgh, to determine what f
 	- Note that my environment requires a spark set-up (cell 1.1), which may not be required for other set ups and could therefore be ignored in some cases.
 
 4. How To Interact With This Project: <br>
-This is an exploratory project looking at the prices of Edinburgh lets. You can find some high-level discussion on Medium (How much is a room in Edinburgh worth?) and if you would like to use it to predict the price of your own property, please alter the values for the features after cell 4.3
+This is an exploratory project looking at the prices of Edinburgh lets. You can find some high-level discussion on Medium (https://clare-j.medium.com/how-much-is-a-room-in-edinburgh-worth-28021bcd7a48) and if you would like to use it to predict the price of your own property, please alter the values for the features after cell 4.3
 
 5. Licensing, Authors, Acknowledgements: <br>
 Airbnb data from Inside Airbnb and from Kaggle project Edinburgh Inside Airbnb by Thomas Roche. Also Udacity for resources on Githb, datasets and project structure.
